@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "30 5,17 * * *"}]
+  schedule: [{cron: '30 5,17 * * *'}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -59,6 +59,6 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: www.miaouu.top
+          plugin_pagespeed_url: https://www.miaouu.top/
           plugin_stars: yes
           plugin_stars_limit: 4
