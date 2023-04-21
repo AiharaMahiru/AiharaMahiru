@@ -55,10 +55,10 @@ jobs:
           plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_pwa: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://www.miaouu.top/
+#           plugin_pagespeed: yes
+#           plugin_pagespeed_detailed: yes
+#           plugin_pagespeed_pwa: yes
+#           plugin_pagespeed_screenshot: yes
+#           plugin_pagespeed_url: https://www.miaouu.top/
           plugin_stars: yes
           plugin_stars_limit: 4
