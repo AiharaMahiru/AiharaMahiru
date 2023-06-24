@@ -24,7 +24,7 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently studing on [JSUT](https://jsut.edu.cn/)~
+- 🔭 I’m currently studing on [JSUT](https://www.jsut.edu.cn/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - ⛺️ I have a private site: [AshiBlog](https://www.miaouu.top), you're welcome to come! ~
